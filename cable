@@ -169,8 +169,6 @@ http://190.102.139.140:8000/play/a04r
 http://190.102.139.140:8000/play/a01n
 #EXTINF:-1,Pasiones HD
 http://190.102.139.140:8000/play/a011
-#EXTINF:-1,PlayBoy HD
-http://190.102.139.140:8000/play/a024
 #EXTINF:-1,RCN
 http://190.102.139.140:8000/play/a045
 #EXTINF:-1,RPP
@@ -181,8 +179,6 @@ http://190.102.139.140:8000/play/a04u
 http://190.102.139.140:8000/play/a00g
 #EXTINF:-1,STAR TVE HD
 http://190.102.139.140:8000/play/a01p
-#EXTINF:-1,Sextreme
-http://190.102.139.140:8000/play/a036
 #EXTINF:-1,Seæal Colombia HD
 http://190.102.139.140:8000/play/a054
 #EXTINF:-1,Sony HD
@@ -225,7 +221,9 @@ http://190.102.139.140:8000/play/a041
 http://190.102.139.140:8000/play/a01y
 #EXTINF:-1,VISION SUR AREQUIPA
 http://190.102.139.140:8000/play/a05f
-#EXTINF:-1,Venus
-http://190.102.139.140:8000/play/a035
 #EXTINF:-1,Warner Channel HD
 http://190.102.139.140:8000/play/a00s
+#EXTINF:-1,CALLE 13 HD
+http://5.255.90.184:2001/play/a04f
+#EXTINF:-1,CARACOL TV HD
+http://45.170.241.28:4000/play/1117/index.m3u8
