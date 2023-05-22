@@ -149,8 +149,8 @@ http://190.102.139.140:8000/play/a00h
 http://190.102.139.140:8000/play/a01z
 #EXTINF:-1,Movistar Deportes HD
 http://190.102.139.140:8000/play/a002
-#EXTINF:-1,NATIVA TV
-http://190.102.139.140:8000/play/a04k
+#EXTINF:-1 tvg-id="Nativa.pe" tvg-logo="https://i.imgur.com/Y9k9XSO.png" group-title="General",Nativa (720p) [Not 24/7]
+https://servilive.com:3449/live/mlecaroslive.m3u8
 #EXTINF:-1,NOVA TV
 http://190.102.139.140:8000/play/a04p
 #EXTINF:-1,NTN 24 Horas
